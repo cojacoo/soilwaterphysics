@@ -9,3 +9,6 @@ dependencies:
   - seaborn
   - scipy
   - cmf
+  - hydroeval
+  - statsmodels
+  - dorado
