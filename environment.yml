@@ -1,14 +1,14 @@
-name: cmfx
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - pandas
-  - jupyter
-  - matplotlib
-  - seaborn
-  - scipy
-  - cmf
-  - hydroeval
-  - statsmodels
-  - dorado
+#name: cmfx
+#channels:
+#  - conda-forge
+#dependencies:
+#  - numpy
+#  - pandas
+#  - jupyter
+#  - matplotlib
+#  - seaborn
+#  - scipy
+#  - cmf
+#  - hydroeval
+#  - statsmodels
+#  - dorado
